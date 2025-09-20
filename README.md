@@ -1,1 +1,1 @@
-# pyth
+This repository contains a collection of Python scripts and exercises used for learning and practicing Python programming. It includes small programs, algorithms, and problem-solving tasks covering various concepts, helping to reinforce coding skills and experiment with Python features.
